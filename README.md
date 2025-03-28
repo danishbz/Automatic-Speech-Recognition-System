@@ -22,7 +22,7 @@ Ensure you have the following installed:
 - Librosa
 - Wave
 
-Download the English deepspeech models named 'deepspeech-0.9.3-models.pbmm' and deepspeech-0.9.3-models.scorer [here](https://github.com/mozilla/DeepSpeech/releases)
+Download the English deepspeech models named 'deepspeech-0.9.3-models.pbmm' and deepspeech-0.9.3-models.scorer [here](https://github.com/mozilla/DeepSpeech/releases).
 
 ### Installation
 
